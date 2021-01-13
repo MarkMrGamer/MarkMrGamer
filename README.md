@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 An introduction
 
 <!--
 **MarkMrGamer/MarkMrGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+heyo, i'm goom (used to go by MarkMrGamer) I am a HTML developer for AncientTube and other projects. If you have any questions, contact me!
+
+### ⚡ Things about me
+- An american asian
+- Learned HTML in 2017
+- Contributed to only 1 project
+- Great at drawings
+
+### 🔭 Projects
+
+none
