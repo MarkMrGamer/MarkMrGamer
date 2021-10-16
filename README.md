@@ -25,5 +25,4 @@ heyo, i'm goom (used to go by MarkMrGamer) I am a HTML developer for AncientTube
 
 ### 🔭 Projects
 
-- clitorizweb
 - 2bart
